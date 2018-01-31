@@ -9,4 +9,11 @@ This is Japanese textbook of C language.
 The file name "Chapter~" is written in this book.
 To learn C language, I write these code in this book.
 
++ **Chapter1: Minimal program**
++ **Chapter2: How to write program**
++ **Chapter3: Print on screen**
++ **Chapter4: Calculation and print of numbers**
++ **Chapter5: Declare variables**
++ **Chapter6: Input from keyboad**
+
 ***enjoy C language!***
