@@ -9,6 +9,12 @@ int main (void)
 	
     int condition = year % 4;
 	
+    // if sentence
+    /*
+     if (condition) body; condition == true  -> do body
+                          condition == false -> do NOT do body
+    */
+    
 	if(condition == 0) printf("Summer Olympic");
 	if(condition == 2) printf("Winter Olympic");
     if(condition != 0 && condition != 2) {

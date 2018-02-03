@@ -16,5 +16,8 @@ To learn C language, I write these code in this book.
 + **Chapter5: Declare variables**
 + **Chapter6: Input from keyboad**
 + **Chapter7: If sentence**
++ **Chapter8: if-else and switch sentece**
++ **Chapter9: for loop**
++ **Chapter10: while loop and do-while loop**
 
 ***enjoy C language!***
