@@ -19,5 +19,6 @@ To learn C language, I write these code in this book.
 + **Chapter8: if-else and switch sentece**
 + **Chapter9: for loop**
 + **Chapter10: while loop and do-while loop**
++ **Chapter11: make function**
 
 ***enjoy C language!***
