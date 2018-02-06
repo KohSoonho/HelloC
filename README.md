@@ -21,5 +21,7 @@ To learn C language, I write these code in this book.
 + **Chapter10: while loop and do-while loop**
 + **Chapter11: make function**
 + **Chapter12: scope of variable**
++ **Chapter13: Array**
++ **Chapter14: Character and String**
 
 ***enjoy C language!***
