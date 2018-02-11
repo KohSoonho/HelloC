@@ -24,5 +24,6 @@ To learn C language, I write these code in this book.
 + **Chapter13: Array**
 + **Chapter14: Character and String**
 + **Chapter15: Pointer variable**
++ **Chapter16: Structure**
 
 ***enjoy C language!***
