@@ -27,5 +27,7 @@ To learn C language, I write these code in this book.
 + **Chapter16: Structure**
 + **Chapter17: Files**
 + **Chapter18: Constant and Macro**
++ **Chapter19: Dynamic Array**
++ **Chapter20: Header and Source**
 
 ***enjoy C language!***
